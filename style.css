@@ -21,7 +21,7 @@ h1 {
 }
 
 h3 {
-	font-size: 36px;
+	font-size: 26px;
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 }
@@ -42,16 +42,19 @@ h4 {
 
 #heading {
 	width:1024px;
-	margin-left: auto;
-	margin-right: auto;
 	text-align: left;
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;	
 	padding: 5px 0px 5px 125px;
 }
 
 #content {
-	margin-top: 125px;
+	margin-top: 70px;
 	padding-bottom: 20px;
-	margin-bottom: 60px;
+	margin-bottom: 40px;
 	overflow: hidden;
 
     text-align: left;
@@ -69,14 +72,14 @@ h4 {
 
 #connect .no-bullet {
 	font-family: "Cabin", serif;
-	font-size: 24px;
+	font-size: 16px;
 }
 
 #profile-pic {
 	text-align: center;
 	margin: auto;
 	margin-top: 25px;
-	width: 225px;
+	width: 190px;
 	height: auto;
 }
 
@@ -91,7 +94,7 @@ h4 {
 
 #intro .no-bullet {
 	font-family: Helvetica, sans-serif;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 .no-bullet {
@@ -129,6 +132,12 @@ a:active {
 }
 
 #closing {
-/*	padding: 5px 0px 5px 0px;*/
 	text-align: center;
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;	
+	padding: 5px 0px 5px 0px;
+	
 }
